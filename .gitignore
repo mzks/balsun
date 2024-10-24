@@ -27,3 +27,17 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# generated gerber file
+hardware/kicad/balsun-B_Cu.gbr
+hardware/kicad/balsun-B_Mask.gbr
+hardware/kicad/balsun-B_Paste.gbr
+hardware/kicad/balsun-B_Silkscreen.gbr
+hardware/kicad/balsun-Edge_Cuts.gbr
+hardware/kicad/balsun-F_Cu.gbr
+hardware/kicad/balsun-F_Mask.gbr
+hardware/kicad/balsun-F_Paste.gbr
+hardware/kicad/balsun-F_Silkscreen.gbr
+hardware/kicad/balsun-In1_Cu.gbr
+hardware/kicad/balsun-In2_Cu.gbr
+hardware/kicad/balsun-job.gbrjob
