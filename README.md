@@ -2,6 +2,8 @@
 
 This is an arduino-compatible board for balloon experiments.
 
+![Balsun prototype photo](./hardware/info/balsun_prototype.jpg)
+
 ## Features
 
  - Arduino UNO R4 Minima-compatible hardware
